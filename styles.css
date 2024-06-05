@@ -158,25 +158,6 @@ h1, h2, h3, h4, h5, h6 {
     gap: 1rem;
 }
 
-.app__footer {
-    display: flex;
-    width: 100%;
-    padding: 2.8rem 6rem;
-    justify-content: center;
-    align-items: center;
-    background: #010B15;
-}
-
-.app__footer-text {
-    color: rgba(182, 182, 182, 0.8);
-    text-align: center;
-    font-family: Montserrat;
-    font-size: 1.5rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 150%;
-}
-
 /* toggle */
 .toggle {
     cursor: pointer;
